@@ -1,0 +1,3 @@
+/Users/harri/desktop/framecap/build/CMakeFiles/rebuild_cache.dir
+/Users/harri/desktop/framecap/build/CMakeFiles/edit_cache.dir
+/Users/harri/desktop/framecap/build/CMakeFiles/framecap.dir
